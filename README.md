@@ -2,6 +2,6 @@
 
 Shop App.
 
-## Getting Started
+## Short description
 
 App Shop: an application developed with Flutter.
